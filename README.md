@@ -27,8 +27,6 @@ I have a strong foundation in **3D modeling** 🎮 and **game development** 🕹
 - **Illustrator** ✏️
   
 ---
-
-
 ## 🏆 **Achievements**
 
 - **Best Mixed Reality Game** at *Global Game Jam Hong Kong 2024* 🏅  
@@ -46,15 +44,6 @@ I have a strong foundation in **3D modeling** 🎮 and **game development** 🕹
 - Implemented **motion capture techniques** 🎥 to enhance animation quality.
 
 ---
-
-## 📊 **Current Focus**
-
-I am currently focused on learning **data analysis** tools and techniques:
-- **Exploratory Data Analysis (EDA)** 🔍
-- **Data Visualization** using **Matplotlib** 📊 and **Seaborn** 📈
-- **SQL** 🗄️ for querying and managing datasets
-
-
 ## 💡 **Get in Touch**
 
 Feel free to check out my work or connect with me!
