@@ -28,18 +28,6 @@ I have a strong foundation in **3D modeling** 🎮 and **game development** 🕹
   
 ---
 
-## 🎓 **Education**
-
-**Junior Data Engineer Program**  
-*Generation Hong Kong* (2024) 🎓
-
-**BSc (Hons) Digital Media**  
-*University of the West of England* (2023-2024) 🎓
-
-**Higher Diploma in Games and Animation**  
-*Vocational Training Council* (2021-2023) 🎮
-
----
 
 ## 🏆 **Achievements**
 
@@ -66,27 +54,13 @@ I am currently focused on learning **data analysis** tools and techniques:
 - **Data Visualization** using **Matplotlib** 📊 and **Seaborn** 📈
 - **SQL** 🗄️ for querying and managing datasets
 
----
-
-## 📂 **Projects**
-
-### **[Project 1: Data Analysis Portfolio](#)**
-- A comprehensive analysis of [dataset] using **Python** 🐍 and **SQL** 🗄️.
-- Key insights and visualizations 📊 using **Matplotlib** and **Seaborn**.
-
-### **[Project 2: 3D Game Development](#)**
-- Developed a **mixed reality game** 🎮 showcased in **Global Game Jam 2024** 🏅.
-  
----
 
 ## 💡 **Get in Touch**
 
 Feel free to check out my work or connect with me!
 
-- **GitHub Portfolio:** [GitHub Profile](#) 💻
-- **LinkedIn:** [LinkedIn Profile](#) 👔
-- **Personal Website:** [Portfolio](#) 🌐
 
+- **LinkedIn:** [LinkedIn Profile](#) 👔
 ---
 
 “**Continuous learning** is the foundation of creativity and innovation. I am excited to contribute my skills to a dynamic team and grow as a data professional.” 🚀
