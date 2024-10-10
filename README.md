@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Donavan!
 
-### 🚀 Data Enginner |📊 Data Analyst|🎮 Game Developer| 🎨 3D Artist | 📚 Passionate Learner 
+### 🚀 Data Enginner |📊 Data Analyst |🎮 Game Developer| 🎨 3D Artist | 📚 Passionate Learner 
 
 Enthusiastic Junior Data Engineer skilled in Python, SQL, and data visualization. Recently
 completed a Data Engineering bootcamp, developing projects like a Library Management
