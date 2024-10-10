@@ -30,7 +30,6 @@ I have a strong foundation in **3D modeling** 🎮 and **game development** 🕹
 ## 🏆 **Achievements**
 
 - **Best Mixed Reality Game** at *Global Game Jam Hong Kong 2024* 🏅  
-  [Video Link / Website](#)
 
 ---
 
@@ -49,7 +48,7 @@ I have a strong foundation in **3D modeling** 🎮 and **game development** 🕹
 Feel free to check out my work or connect with me!
 
 
-- **LinkedIn:** [LinkedIn Profile](#) 👔
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/donavan-huang-57124a277/) 👔
 ---
 
 “**Continuous learning** is the foundation of creativity and innovation. I am excited to contribute my skills to a dynamic team and grow as a data professional.” 🚀
