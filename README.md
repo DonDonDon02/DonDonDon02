@@ -8,23 +8,18 @@ I have a strong foundation in **3D modeling** 🎮 and **game development** 🕹
 
 ---
 
-## 🔧 **Tech Stack & Tools**
+## 🔧 Tech Stack & Tools
 
-### **Programming Languages & Data Tools:**
-- **Python** 🐍 (Pandas, NumPy, Matplotlib)
-- **SQL** 🗄️ (MySQL, PostgreSQL)
-- **C#** ⚙️ (Unity Game Development)
-
-### **3D Modeling & Game Development:**
-- **Autodesk Maya** 🏛️
-- **Blender** 🌀
-- **Unity** 🎮
-- **3ds Max** 🖼️
-- **Substance 3D Painter** 🎨
-
-### **Design Tools:**
-- **Photoshop** 🖌️
-- **Illustrator** ✏️
+| Category                     | Skills                                                                                      |
+|------------------------------|---------------------------------------------------------------------------------------------|
+| **Programming Languages**    | Python 🐍, SQL 🗄️, C# ⚙️                                                                    |
+| **Data Technologies**        | SQLite, Microsoft ODBC Driver for SQL Server, Azure ☁️                                       |
+| **Data Visualization**       | Power BI 📊, Tableau, Matplotlib, Plotly, Seaborn                                           |
+| **Web Technologies**         | Streamlit 🌐                                                                                |
+| **Databases**                | MySQL 🗃️                                                                                    |
+| **Cloud Platforms**          | Microsoft Azure ☁️                                                                          |
+| **Design & Development Tools** | Unity 🎮, Photoshop ✏️, Illustrator 🖌️, Autodesk Maya 🏛️, 3ds Max 🖼️, Blender 🔄, Substance 3D Painter 🎨 |
+| **Other Tools**              | Git 🔧, GitHub 🐙, Docker 🐳                                                                 |
   
 ---
 ## 🏆 **Achievements**
