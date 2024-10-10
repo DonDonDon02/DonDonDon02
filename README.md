@@ -1,12 +1,10 @@
 # 👋 Hello, I'm Donavan!
 
-### 🚀 Data Enginner |📊 Data Analyst|🎮 Game Developer| 🎨 3D Artist | 📚 Passionate Learner
+### 🚀 Data Enginner |📊 Data Analyst|🎮 Game Developer| 🎨 3D Artist | 📚 Passionate Learner 
 
-Enthusiastic Junior Data Engineer skilled in Python, SQL, and data visualization. Recently
-completed a Data Engineering bootcamp, developing projects like a Library Management
-System, WeatherAPI Pipeline, and Stock Analysis App. As a problem solver with a background
-in digital media, I’m detail-oriented and passionate about using data for informed decision-
-making. Eager to join a dynamic team and enhance my data engineering skills.
+Enthusiastic and analytical Junior Data Engineer with a strong foundation in Python, SQL, and data visualization tools. Recently completed an intensive Data Engineering bootcamp, where I developed and deployed robust data projects, including a Library Management System, WeatherAPI Pipeline, and a Stock Analysis App. Possess a background in digital media with a keen eye for detail and a passion for leveraging data to drive informed decisions. Also, I am a problem solver and detail-oriented. Eager to contribute to a dynamic team and further enhance my data engineering skills.
+
+
 ---
 
 ## 🔧 Tech Stack & Tools
